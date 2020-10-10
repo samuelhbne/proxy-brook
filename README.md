@@ -73,7 +73,7 @@ VPS-Server: 12.34.56.78
 Brook-URL: brook://12.34.56.78%3A6060%20my-secret
 ```
 
-![QR code example](https://github.com/samuelhbne/vpn-launchpad/blob/master/images/qr-brook.png)
+![QR code example](https://github.com/samuelhbne/proxy-brook/blob/master/images/qr-brook.png)
 
 ## How to stop and remove the running container
 
