@@ -63,7 +63,7 @@ OrgId:          TWITT
 - dig should return resolved IP recorders of twitter.com if DNS server works properly.
 - Whois should return "OrgId: TWITT". That means the IP address returned from dig query belongs to twitter.com indeed, hence untaminated.
 - Whois was actually running inside the proxy container through proxychains to avoid potential access blocking.
-- Please have a look over the sibling project [server-brook](https://github.com/samuelhbne/vpn-launchpad/tree/master/server-brook) if you'd like to set a Shadowsocks server.
+- Please have a look over the sibling project [server-brook](https://github.com/samuelhbne/server-brook) if you'd like to set a Shadowsocks server.
 
 ## How to get the Brook QR code for mobile connection
 
