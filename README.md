@@ -5,8 +5,8 @@ Brook client container with SOCKS5/HTTP/DNS proxy and QR code support. Running o
 ## [Optional] How to build proxy-brook docker image
 
 ```shell
-$ git clone https://github.com/samuelhbne/vpn-launchpad.git
-$ cd vpn-launchpad/proxy-brook
+$ git clone https://github.com/samuelhbne/proxy-brook.git
+$ cd proxy-brook
 $ docker build -t samuelhbne/proxy-brook:amd64 -f Dockerfile.amd64 .
 ...
 ```
